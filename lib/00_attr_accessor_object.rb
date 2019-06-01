@@ -10,3 +10,12 @@ class AttrAccessorObject
   end
 end
 
+# class AnimalConstructor
+#   def self.be_a_god(species, sound)
+#     Object.const_set(species, Class.new{ define_method("#{sound}") {puts "#{sound}"} })  
+#   end
+# end
+
+
+
+# 4:32 PM

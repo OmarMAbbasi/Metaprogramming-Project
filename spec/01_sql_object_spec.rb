@@ -244,3 +244,5 @@ describe SQLObject do
     end
   end
 end
+
+
